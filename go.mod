@@ -72,7 +72,7 @@ require (
 	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible
 	jaytaylor.com/html2text v0.0.0-20200412013138-3577fbdbcff7
-	k8s.io/apimachinery v0.0.0-20190223094358-dcb391cde5ca
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v10.0.0+incompatible
 )
 
